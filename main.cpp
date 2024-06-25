@@ -7,6 +7,6 @@ int main()
     DigitalOut LED2(LED2);
 
     while (true) {
-        LD2 = B1_USER;
+        LED2 = B1_USER;
     }
 }
